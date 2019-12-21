@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceMonitor", "ServiceMonitor\ServiceMonitor.csproj", "{CD8AC59D-F6DB-4FB9-B54B-B17B6E8AC5D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceMonitor2", "..\..\..\Downloads\ServiceMonitor.NetCore-master\ServiceMonitor.NetCore-master\Source\Backend\ServiceMonitor\ServiceMonitor\ServiceMonitor2.csproj", "{6D87F697-58F2-44EA-B47A-0868682CC6E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{E37C9833-56F7-4A28-839D-819D9B096275}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CD8AC59D-F6DB-4FB9-B54B-B17B6E8AC5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD8AC59D-F6DB-4FB9-B54B-B17B6E8AC5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD8AC59D-F6DB-4FB9-B54B-B17B6E8AC5D5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D87F697-58F2-44EA-B47A-0868682CC6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D87F697-58F2-44EA-B47A-0868682CC6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D87F697-58F2-44EA-B47A-0868682CC6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D87F697-58F2-44EA-B47A-0868682CC6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37C9833-56F7-4A28-839D-819D9B096275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37C9833-56F7-4A28-839D-819D9B096275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37C9833-56F7-4A28-839D-819D9B096275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37C9833-56F7-4A28-839D-819D9B096275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

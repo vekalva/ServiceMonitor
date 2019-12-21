@@ -14,7 +14,7 @@ namespace ServiceMonitor.WebAPI.Controllers
     {
         protected readonly ILogger Logger;
         protected readonly IAdministrationService Service;
-
+         
         public AdministrationController(ILogger<AdministrationController> logger, IAdministrationService service)
         {
             Logger = logger;
