@@ -18,7 +18,7 @@ namespace ServiceMonitor.WebAPI.Controllers
         public AdministrationController(ILogger<AdministrationController> logger, IAdministrationService service)
         {
             Logger = logger;
-            Service = service;
+            Service = service;    
         }
 #pragma warning restore CS1591
 
