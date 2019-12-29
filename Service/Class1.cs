@@ -49,7 +49,7 @@ namespace ServiceMonitor
             catch (Exception ex)
             {
                 Logger.LogError("Error on retrieve watch items: {0}", ex);
-                return;
+                return;   
             }
 
             foreach (var item in serviceWatcherItemsResponse.Model)
